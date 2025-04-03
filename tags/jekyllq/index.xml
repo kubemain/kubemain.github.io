@@ -15,12 +15,5 @@
       <guid>https://kubemain.github.io/2018/05/21/algolia-integration-with-jekyll/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;This series of articles are my notes of &amp;ldquo;Bitcoin and Cryptocurrency Technologies&amp;rdquo; online course.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;table-of-content&#34;&gt;Table of Content&lt;/h2&gt;&#xA;&lt;p&gt;{:.no_toc}&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Table of Content&#xA;{:toc}&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;scrooge-coin-transaction&#34;&gt;Scrooge Coin Transaction&lt;/h2&gt;&#xA;&lt;p&gt;Scrooge Coin programming assignment is a little bit tricky, the video of this lesson hasn&amp;rsquo;t explained some implementation details. To help you understand the transaction data structure used in Scrooge Coin, I draw this diagram:&#xA;&#xA;  &lt;img src=&#34;https://kubemain.github.io/img/2018-5-20-cryptocurrency_week1_scroogecoin/scroogecoin.png&#34; alt=&#34;Scrooge Coin&#34;&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>使用Algolia为Gitpage博客提供站内搜索</title>
-      <link>https://kubemain.github.io/2018/05/21/algolia-integration-with-jekyll/</link>
-      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
-      <guid>https://kubemain.github.io/2018/05/21/algolia-integration-with-jekyll/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;This series of articles are my notes of &amp;ldquo;Bitcoin and Cryptocurrency Technologies&amp;rdquo; online course.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;table-of-content&#34;&gt;Table of Content&lt;/h2&gt;&#xA;&lt;p&gt;{:.no_toc}&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Table of Content&#xA;{:toc}&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;scrooge-coin-transaction&#34;&gt;Scrooge Coin Transaction&lt;/h2&gt;&#xA;&lt;p&gt;Scrooge Coin programming assignment is a little bit tricky, the video of this lesson hasn&amp;rsquo;t explained some implementation details. To help you understand the transaction data structure used in Scrooge Coin, I draw this diagram:&#xA;&#xA;  &lt;img src=&#34;https://kubemain.github.io/img/2018-5-20-cryptocurrency_week1_scroogecoin/scroogecoin.png&#34; alt=&#34;Scrooge Coin&#34;&gt;&#xA;&#xA;&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

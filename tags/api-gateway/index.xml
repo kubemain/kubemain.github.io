@@ -15,12 +15,5 @@
       <guid>https://kubemain.github.io/2018/04/11/service-mesh-vs-api-gateway/</guid>
       <description>&lt;h2 id=&#34;service-mesh-vs-api-gateway&#34;&gt;Service Mesh vs API Gateway&lt;/h2&gt;&#xA;&lt;p&gt;在&lt;a href=&#34;https://medium.com/microservices-in-practice/service-mesh-for-microservices-2953109a3c9a&#34;&gt;前一篇关于Service Mesh的文章&lt;/a&gt;中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章中，我打算就Service Mesh和API Gateway的用途进行进一步讨论。&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Service Mesh 和 API Gateway的关系探讨（译文）</title>
-      <link>https://kubemain.github.io/2018/04/11/service-mesh-vs-api-gateway/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
-      <guid>https://kubemain.github.io/2018/04/11/service-mesh-vs-api-gateway/</guid>
-      <description>&lt;h2 id=&#34;service-mesh-vs-api-gateway&#34;&gt;Service Mesh vs API Gateway&lt;/h2&gt;&#xA;&lt;p&gt;在&lt;a href=&#34;https://medium.com/microservices-in-practice/service-mesh-for-microservices-2953109a3c9a&#34;&gt;前一篇关于Service Mesh的文章&lt;/a&gt;中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章中，我打算就Service Mesh和API Gateway的用途进行进一步讨论。&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

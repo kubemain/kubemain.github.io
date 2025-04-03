@@ -15,12 +15,5 @@
       <guid>https://kubemain.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Helm是Kubernetes生态系统中的一个软件包管理工具。本文将介绍为何要使用Helm进行Kubernetes软件包管理，澄清Helm中使用到的相关概念，并通过一个具体的示例学习如何使用Helm打包，分发，安装，升级及回退Kubernetes应用。&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Helm介绍</title>
-      <link>https://kubemain.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</link>
-      <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
-      <guid>https://kubemain.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Helm是Kubernetes生态系统中的一个软件包管理工具。本文将介绍为何要使用Helm进行Kubernetes软件包管理，澄清Helm中使用到的相关概念，并通过一个具体的示例学习如何使用Helm打包，分发，安装，升级及回退Kubernetes应用。&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
